@@ -104,13 +104,10 @@ My personal developer portfolio showcasing my projects, skills and experience.
 
 ---
 
-## 🔥 Contribution Streak
+## 🐍 My GitHub Contributions
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=muhammad230&theme=tokyonight&hide_border=true"
-    alt="GitHub Contribution Streak"
-  />
+  <img src="https://raw.githubusercontent.com/muhammad230/muhammad230/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </p>
 
 ---
