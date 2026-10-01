@@ -17,7 +17,7 @@
 - 👨‍💻 All of my projects are available on **[GitHub](https://github.com/muhammad230?tab=repositories)**
 - 💬 Ask me about **Full-Stack Development**
 - 📫 Reach me at **ali.khansmr3@gmail.com**
-- ⚡ Fun fact: **I think I'm funny 😄**
+- ⚡ Fun fact: **I think I'm funnyy 😄**
 
 ---
 
