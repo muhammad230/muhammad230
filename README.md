@@ -8,7 +8,7 @@
 
 ---
 
-### 🚀 About Me
+### 🚀 About Mee
 
 - 🔭 Currently working on **[E-commerce Website](https://e-commerce-website-lovat-phi.vercel.app/)**
 - 🌱 Currently learning **Laravel** and **React.js**
