@@ -12,7 +12,7 @@
 
 - 🔭 Currently working on **[E-commerce Website](https://e-commerce-website-lovat-phi.vercel.app/)**
 - 🌱 Currently learning **Laravel** and **React.js**
-- 👯 Looking to collaborate on **[Hotel Booking Website]([https://hotel-booking-website-jade.vercel.app/](https://htl-web-gamma.vercel.app/))**
+- 👯 Looking to collaborate on **[Hotel Booking Website](https://htl-web-gamma.vercel.app)**
 - 🤝 Looking for help with **[My Portfolio Website](https://mohdsite-com.vercel.app/)**
 - 👨‍💻 All of my projects are available on **[GitHub](https://github.com/muhammad230?tab=repositories)**
 - 💬 Ask me about **Full-Stack Development**
