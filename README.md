@@ -100,7 +100,7 @@
 | Project | Description | Live Demo |
 |---|---|---|
 | 🛒 **E-Commerce Website** | A full-featured online store built with modern web tech. | [Visit](https://e-commerce-website-lovat-phi.vercel.app/) |
-| 🏨 **Hotel Booking Website** | A booking platform for browsing and reserving hotel rooms | [Visit](https://hotel-booking-website-jade.vercel.app/) |
+| 🏨 **Hotel Booking Website** | A booking platform for browsing and reserving hotel rooms | [Visit](https://htl-web-gamma.vercel.app) |
 | 💼 **Portfolio Website** | My personal developer portfolio | [Visit](https://mohdsite-com.vercel.app/) |
 
 ---
