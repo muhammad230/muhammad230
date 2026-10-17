@@ -97,7 +97,7 @@
 
 > 💡 **Tip:** Pin your favorite repositories from your GitHub profile settings so they display correctly here — replace `E-commerce-website` and `Hotel-Booking-website` above with your exact repo names.
 
-| Project | Descriptionn | Live Demo |
+| Project | Descriptionn | Live Demoo |
 |---|---|---|
 | 🛒 **E-Commerce Website** | A full-featured online store built with modern web tech. | [Visit](https://e-commerce-website-lovat-phi.vercel.app/) |
 | 🏨 **Hotel Booking Website** | A booking platform for browsing and reserving hotel rooms | [Visit](https://htl-web-gamma.vercel.app) |
